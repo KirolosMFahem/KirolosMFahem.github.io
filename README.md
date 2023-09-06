@@ -4,5 +4,5 @@
 
 
 <center>
-<IMG SRC="animation1. gif">
+<IMG SRC="GIF/loading.gif">
 </center>
