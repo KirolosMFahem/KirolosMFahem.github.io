@@ -184,6 +184,30 @@ pagespeed.CriticalImages.Run('/mod_pagespeed_beacon','https://preview.colorlib.c
 <li><a href="/X" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
 <li><a href="/WhatsApp" target="_blank"><i class="fa fa-whatsapp" aria-hidden="true"></i></a></li>
 </ul>
+<!-- Google Calendar Appointment Scheduling begin -->
+<link href="https://calendar.google.com/calendar/scheduling-button-script.css" rel="stylesheet">
+<script src="https://calendar.google.com/calendar/scheduling-button-script.js" async></script>
+<style>
+  /* Add this style to your main stylesheet for better control */
+  .custom-calendar-button {
+    padding: 30px 40px; /* Adjust padding values as needed */
+  }
+</style>
+<script>
+(function() {
+  var target = document.currentScript;
+  window.addEventListener('load', function() {
+    calendar.schedulingButton.load({
+      url: '/Appointments',
+      color: '#039BE5',
+      label: 'Book an appointment',
+      target,
+    });
+  });
+})();
+</script>
+<!-- end Google Calendar Appointment Scheduling -->
+<br> <br>
 </div>
 </div>
 </div>
