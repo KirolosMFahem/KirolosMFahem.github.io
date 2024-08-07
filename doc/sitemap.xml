@@ -8,13 +8,53 @@
 
 
 <url>
-  <loc>https://kirolos.me/</loc>
-  <lastmod>2023-10-05T18:42:10+00:00</lastmod>
+  <loc>https://re.kirolos.me/</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
-  <loc>https://kirolos.me/signup.htm</loc>
-  <lastmod>2023-10-05T18:42:10+00:00</lastmod>
+  <loc>https://re.kirolos.me/signup.htm</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/Appointments</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/LinkedIn</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/g.dev</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/GitHub</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/FaceBook</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/Instagram</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/X</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://re.kirolos.me/WhatsApp</loc>
+  <lastmod>2024-08-07T00:48:37+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
